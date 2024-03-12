@@ -1,4 +1,4 @@
-# Pygame_SlotMachine
+# FruitFrenzy
 
 The project is a Python slot machine game with a lever and four spinning reels displaying different fruit images. Players match images to win prizes, with the game determining winning or losing based on the combination.
 
